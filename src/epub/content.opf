@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Demian: The Story of Emil Sinclair’s Youth</dc:title>
 		<meta property="file-as" refines="#fulltitle">Demian</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Bildungsromans</dc:subject>
 		<dc:subject id="subject-2">Young men -- Germany -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Germany -- Social conditions -- 1918-1933 -- Fiction</dc:subject>
