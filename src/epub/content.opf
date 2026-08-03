@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/hermann-hesse/demian/n-h-priday</dc:identifier>
 		<dc:date>2025-09-07T20:32:24Z</dc:date>
@@ -49,11 +49,11 @@
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Philosophy</meta>
 		<meta property="schema:genre">Spirituality</meta>
-		<dc:description id="description">A boy goes on a journey of spiritual growth.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A boy goes on a journey of spiritual growth.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;From a young age, Emil Sinclair finds himself living in two different worlds: one of cleanliness and order with a moral clarity, and the other of disorder and scandal, containing the ugly behaviors and circumstances of the world. As Emil progresses through his childhood, he begins to question his place in these two worlds, and goes on a rocky journey of philosophical growth and enlightenment aided by his enigmatic friend Demian.&lt;/p&gt;
 			&lt;p&gt;In the 1910s, &lt;a href="https://standardebooks.org/ebooks/hermann-hesse"&gt;Hesse&lt;/a&gt; began psychoanalytic treatment in the hopes of dealing with difficulties he experienced in his youth. This led him to become interested in the growing field of psychoanalysis, and in particular Jungian philosophy. Hesse include many symbols and archetypes related to the field in &lt;i&gt;Demian&lt;/i&gt;, and based part of the novel on his own psychological qualms he had in his childhood.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/74222</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/102954224</dc:source>
