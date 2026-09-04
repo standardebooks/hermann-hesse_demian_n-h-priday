@@ -38,8 +38,8 @@
 		<meta property="file-as" refines="#fulltitle">Demian</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Bildungsromans</dc:subject>
-		<dc:subject id="subject-2">Young men -- Germany -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Germany -- Social conditions -- 1918-1933 -- Fiction</dc:subject>
+		<dc:subject id="subject-2">Young men--Germany--Fiction</dc:subject>
+		<dc:subject id="subject-3">Germany--Social conditions--1918-1933--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2003003087</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
